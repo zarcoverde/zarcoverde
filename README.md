@@ -1,7 +1,7 @@
-<p align='center'><img src ="https://user-images.githubusercontent.com/31412501/118694241-7db51780-b7d1-11eb-9368-e97f2fed3ad9.png" width="230"></p>
-
-### <h3 align='center'>¡Hola! Soy Zarcoverde</h3>
-
+<p align="center">
+ <img width="200px" src="https://user-images.githubusercontent.com/31412501/118694241-7db51780-b7d1-11eb-9368-e97f2fed3ad9.png" align="center" alt="Github Readme Stats"/>
+ <h3 align='center'>¡Hola! soy Zarcoverde</h3>
+</p>
 <hr>
 
 Soy ingeniero de sistemas en <a href="https://www.divergente.net.co/"> Divergente Soluciones Informaticas S.A.S </a>
