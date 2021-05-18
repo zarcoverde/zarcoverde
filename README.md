@@ -1,8 +1,12 @@
-### <h2>¡Hola! Soy Zarcoverde</h2>
+<img align='center' src ="https://user-images.githubusercontent.com/31412501/118694241-7db51780-b7d1-11eb-9368-e97f2fed3ad9.png" width="230">
+
+### <h3 align='center'>¡Hola! Soy Zarcoverde</h3>
+
+<hr>
 
 Soy ingeniero de sistemas en <a href="https://www.divergente.net.co/"> Divergente Soluciones Informaticas S.A.S </a>
 
-<img align='right' src ="https://user-images.githubusercontent.com/31412501/118694241-7db51780-b7d1-11eb-9368-e97f2fed3ad9.png" width="230">
+
 
 <h3>👨 �Acerca de mí</h3>
 
