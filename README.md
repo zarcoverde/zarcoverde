@@ -32,18 +32,20 @@
 </div> 
 <hr>
 <h3 align="center">Puedes contactarme en:<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="30px"></h3>
-<a href="https://in.linkedin.com/in/TheDudeThatCode">
-  <img align="center" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>
-</a>
-<a href="https://twitter.com/TheDudeThatCode">
-  <img align="center" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg"/>
-</a>
-<a href="https://www.instagram.com/thedudethatcode/">
-  <img align="centert" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"/>
-</a>
-<a href="mailto:shubhamdeepjha@gmail.com">
-  <img align="center" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"/>
-</a> 
+<div align="center" width="auto">
+  <a href="https://in.linkedin.com/in/TheDudeThatCode">
+    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>
+  </a>
+  <a href="https://twitter.com/TheDudeThatCode">
+    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg"/>
+  </a>
+  <a href="https://www.instagram.com/thedudethatcode/">
+    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"/>
+  </a>
+  <a href="mailto:shubhamdeepjha@gmail.com">
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"/>
+  </a>
+</div>
 </body>
 </html>
 
