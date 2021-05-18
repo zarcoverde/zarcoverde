@@ -60,7 +60,7 @@
 
 <br>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zarcoverde)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarcoverde&langs_count=8)](https://github.com/zarcoverde/github-readme-stats)
 
 
 
