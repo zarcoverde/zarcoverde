@@ -1,4 +1,4 @@
-<img align='center' src ="https://user-images.githubusercontent.com/31412501/118694241-7db51780-b7d1-11eb-9368-e97f2fed3ad9.png" width="230">
+<p align='center'><img src ="https://user-images.githubusercontent.com/31412501/118694241-7db51780-b7d1-11eb-9368-e97f2fed3ad9.png" width="230"></p>
 
 ### <h3 align='center'>¡Hola! Soy Zarcoverde</h3>
 
