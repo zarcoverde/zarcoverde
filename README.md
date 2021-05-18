@@ -7,7 +7,7 @@
 </p>
 <hr>
 <h3 align="center">Acerca de mí.</h3>
-<p style="text-justify">Soy graduado de ingenieria de sistemas en el año 2015 de la universidad <a href="https://www.itm.edu.co/">ITM<a> en Medellin - Colombia. Actualmente me desempeño como desarrollador full-stack. Soy un apasionado del desarrollo web, amo escuchar música, ver películas, series y jugar video juegos.</p>
+<p style="text-justify">Soy graduado de ingenieria de sistemas en el año 2015 de la universidad <a href="https://www.itm.edu.co/">ITM</a> en Medellin - Colombia. Actualmente me desempeño como desarrollador full-stack. Soy un apasionado del desarrollo web, amo escuchar música, ver películas, series y jugar video juegos.</p>
 <hr>
 <h3 align="center">Estas son algunas de las tecnologías que utilizo en el trabajo:</h3> 
 <div align="center">
@@ -47,12 +47,8 @@
   </a>
 </div>
 <hr>
-<h3 align='center'>Estadísticas de github</h3> 
+<h3 align='center'>Estadísticas de github de <a href="https://github.com/zarcoverde">zarcoverde</a></h3> 
 <div align="center"><a href="https://github.com/zarcoverde/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zarcoverde&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></a>    
 </div
 </body>
 </html>
-<br>
-
-### De: [zarcoverde](https://github.com/zarcoverde)
-
