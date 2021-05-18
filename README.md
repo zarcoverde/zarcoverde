@@ -46,9 +46,9 @@
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"/>
   </a>
 </div>
+<hr>
 </body>
 </html>
-<hr>
 
-## ⭐️ De [zarcoverde] (https://github.com/zarcoverde)
+### ⭐️ De [zarcoverde](https://github.com/zarcoverde)
 
