@@ -1,25 +1,37 @@
-<img align='right' src ="https://user-images.githubusercontent.com/31412501/118694241-7db51780-b7d1-11eb-9368-e97f2fed3ad9.png" width="230">
-<h2>¡Hola! Soy Zarcoverde</h2>
-Soy ingeniero de sistemas en <a href="https://www.divergente.net.co/"> Divergente Soluciones Informaticas S.A.S </a> 
+## नमस्ते 🙏
+[! [Linkedin] (https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/01naveenv/)] ( https://www.linkedin.com/in/01naveenv/)
+[! [] (https://img.shields.io/badge/Telegram-naveenv01-blue)] (https://t.me/naveenv01)
+[! [] (https://img.shields.io/badge/Leetcode-naveenverma-brightgreen)] (https://leetcode.com/naveenverma/)
+[! [] (https://img.shields.io/badge/Gmail-01naveenv%40gmail.com-red)] (https://mail.google.com/mail/u/0/?tab=km# bandeja de entrada)
 
-## Acerca de mí:
-#### Siempre curioso por aprender tecnología de vanguardia. Un poco entusiasta del desarrollo web. La codificación competitiva y los deportes de motor aumentan mi adrenalina. <br> <br>
-
-! [visitantes] (https://visitor-badge.glitch.me/badge?page_id=ayushkumar-25.ayushkumar-25) <br>
-<! - [! [HitCount] (http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25.svg)] (http://hits.dwyl.com/ayushkumar-25/ ayushkumar-25 / ayushkumar-25) ->
-
-
-! [visitantes] (https://visitor-badge.glitch.me/badge?page_id=ayushkumar-25.ayushkumar-25)
-[! [HitCount] (http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25.svg)] (http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ ayushkumar-25) <br>
+<p align = "centro"> 
+  Recuento de visitantes <br>
+  <img src = "https://profile-counter.glitch.me/naveenverma1/count.svg" />
+</p>
 
 
-[! [forthebadge] (https://forthebadge.com/images/badges/built-with-love.svg)] (https://forthebadge.com)
 
----
+`` `javascript
+const Naveen = {
+    pronombres: "él" | "Él",
+    código: ["Javascript", "Java"],
+    askMeAbout: ["web dev", "tech", "app dev", "music", "eddie vedder", "chris cornell"],
+    tecnologías: {
+       MobileApp: ["Aplicación de Android"],
+       backEnd: {
+            js: ["nodo", "express", "hapi"],
+        },
+        bases de datos: ["mongo", "MySql", "sqlite"],
+        varios: ["Firebase", "Socket.IO"]
+    },
+    arquitectura: ["microservicios", "impulsado por eventos"],
+    funFact: "Hay dos formas de escribir programas sin errores; solo la tercera funciona"
+};
+''
+[! [Estadísticas de github de Naveen] (https://github-readme-stats.vercel.app/api?username=naveenverma1&show_icons=true&theme=merko&hide= ["contribs", "issues"])] (https: // github. com / naveenverma1)
 
-⭐️ De [@ ayushkumar-25] (https://github.com/ayushkumar-25)
+<img src = "https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width = "60"> <em> <b> Me encanta conectarme con diferentes personas </b>, así que si quieres di <b> hola, ¡será un placer conocerte más! </b> :) </em>
 
-<! - PARA hacer una captura de pantalla de su código, copie el siguiente enlace:  
-https://carbon.now.sh/ ->
+⭐️ De [naveenverma1] (https://github.com/naveenverma1)
 
 
