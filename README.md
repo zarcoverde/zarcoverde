@@ -30,38 +30,6 @@ Soy ingeniero de sistemas en <a href="https://www.divergente.net.co/"> Divergent
 
 <hr>
 
-
-
-
-### Hola Sourav aquí 👋
-
----
-
-<p align = "centro">
-  <img src = "https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width = "100%" title = "Tarjeta de introducción" alt = "Tarjeta de introducción">
-</p>
-
-Soy un desarrollador web y móvil de pila completa que está explorando Cloud: cloud: mientras facilito el mundo con la experiencia del usuario con mis habilidades de pensamiento de diseño y entusiasta del aprendizaje automático. :guiño:
- 
- 🔭 Estoy planeando un Proyecto ** Visión: Sistema basado en ML para Persianas **.
- 
- 🌱 Actualmente estoy aprendiendo <img src = "http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
- 
- : libros: quiero aprender <img src = "https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> y <img src = "http: // img. shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white "/>
- 
- 👯 Estoy buscando colaborar para un proyecto basado en Flutter y ML ** Doc App **.
- 
- 🤔 Estoy buscando ayuda con [Tarjetas de blog de Github] (https://github.com/Souravdey777/Github-Cards-External-Blogs).
- 
- 💬 Pregúnteme sobre Full Stack Development, Cloud y cualquier material relacionado con la tecnología.
-
-
-! [Vistas de perfil] (https://gpvc.arturio.dev/Souravdey777) <img src = "https://img.shields.io/github/followers/Souravdey777?label=Follow" style = "float: left, margen derecho: 10px "/>
-
-
----
-
-
 ### Preferencia de tecnología y herramientas
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3 -1572B6? Style = flat & logo = css3 & logoColor = white ">
@@ -86,43 +54,4 @@ Soy un desarrollador web y móvil de pila completa que está explorando Cloud: c
 ### Otros idiomas que conozco
 <img src = "http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src = "https://img.shields.io/badge/-C % 20 &% 20C ++ - 659ad2? Style = flat & logo = c% 2B% 2B & logoColor = ffffff "> <img src =" https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white " > 
 
----
 
-! [Estadísticas de GitHub] (https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
-
-Consulte las estadísticas detalladas aquí: point_right: [Sourcerer] (https://sourcerer.io/souravdey777)
-
----
-
-
-### Puedes encontrarme en la web 🌍
-[<img align = "left" alt = "Souarvdey777" width = "22px" src = "https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />] [sitio web ]
-[<img align = "left" alt = "Souarvdey777 | Medium" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />] [medio]
-[<img align = "left" alt = "Souarvdey777 | Twitter" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />] [gorjeo]
-[<img align = "left" alt = "Souarvdey777 | LinkedIn" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] [linkedin]
-[<img align = "left" alt = "Souarvdey777 | Instagram" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />] [instagram]
-
-<br/>
-
-
----
-### Puedes consultar mis blogs: altavoz: 
-
-[! [Tarjetas de blog de Sourav Dey] (https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)] (https://medium.com/@Souravdey777)
-
-[Agrega tus blogs a tu perfil de github usando mis tarjetas de blog de Github] (https://github.com/Souravdey777/Github-Cards-External-Blogs) 
-
----
-
-Conectemos 👨‍💻 y forjemos el futuro juntos. together
-
-** Consulta los repositorios y no olvides dar una estrella. ** 👇
-
-: estrella: De [Souravdey777] (https://github.com/Souravdey777)
-
-[sitio web]: https://souravdey777.github.io/Portfolio/
-[twitter]: https://twitter.com/Souravdey777
-[youtube]: https://youtube.com/
-[Instagram]: https://www.instagram.com/souravdey777/
-[linkedin]: https://www.linkedin.com/in/sourav-dey/
-[medio]: https://medium.com/@Souravdey777/
