@@ -83,3 +83,43 @@ Soy ingeniero de sistemas en <a href="https://www.divergente.net.co/"> Divergent
 
 ⭐️ From [@BRdhanani](https://github.com/BRdhanani)
 
+
+# Hola, soy Jessica 👋
+[! [Insignia de Linkedin] (https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)] (https : //www.linkedin.com/in/jlim/)
+[! [Insignia mediana] (https://img.shields.io/badge/-@__jessicalim-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@_jessicalim)] (https: // medium.com/@_jessicalim)
+[! [Insignia del sitio web] (https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)] (https: // jessicalim.me)
+[! [Insignia de Twitter] (https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)] (https: / /twitter.com/_jesslim)
+[! [Insignia de Instagram] (https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)] (https: // instagram.com/jlim_slam)
+[! [Insignia de Gmail] (https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)] (mailto: jessicalim813@gmail.com)
+
+¡Bienvenido a mi perfil! Soy estudiante, aspirante a [escritor] (https://medium.com/@_jessicalim), codificador a tiempo parcial y buscador de aventuras a tiempo completo. ¡Gracias por visitarnos y me encantaría [conectarnos] (https://www.linkedin.com/in/jlim/)!
+
+
+## Únase a la comunidad Word Cloud: cloud:: pencil2:
+
+! [] (https://img.shields.io/badge/Words%20Added-9-brightgreen?labelColor=7D898B)
+! [] (https://img.shields.io/badge/Word%20Clouds%20Created-1-48D6FF?labelColor=7D898B)
+! [] (https://img.shields.io/badge/Total%20Contributors-6-AC6EFF?labelColor=7D898B)
+
+###: thought_balloon: [Agregar una palabra] (https://github.com/JessicaLim8/JessicaLim8/issues/new?title=wordcloud%7C%3Cinsert-word%3E&body=Just+replace+%3Cinsert-word%3E+ con + su + palabra!% 0D% 0ANext + haga clic en +% 27Submit + new + issue% 27) para ver la actualización de la nube de palabras en tiempo real: cohete:
+
+Se generará automáticamente una nueva nube de palabras cuando [agregue su propia palabra] (https://github.com/JessicaLim8/JessicaLim8/issues/new?title=wordcloud%7C%3Cinsert-word%3E&body=Just+replace+%3Cinsert -palabra% 3E + con + tu + palabra!% 0D% 0ANext + click +% 27Submit + new + issue% 27). El mensaje cambiará con frecuencia, así que asegúrese de volver y comprobarlo: relajado:
+
+<div align = "center">
+
+  ## * ¿Pasatiempo favorito de cuarentena? *: Lock:: tennis:: video_game:
+
+  <img src = "https://raw.githubusercontent.com/JessicaLim8/JessicaLim8/master/wordcloud/wordcloud.png" alt = "WordCloud" width = "100%">
+
+  ! [Insignia de palabras de nube de palabras] (https://img.shields.io/badge/Words%20in%20this%20Cloud-9-informational?labelColor=7D898B)
+  ! [Insignia de colaboradores de Word Cloud] (https://img.shields.io/badge/Contributors%20this%20Cloud-6-blueviolet?labelColor=7D898B)
+
+  [! [Insignia de Github] (https://img.shields.io/badge/-@PradCoder-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/PradCoder)] (https: // github .com / PradCoder) 
+  [! [Insignia de Github] (https://img.shields.io/badge/-@JonathanXu1-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/JonathanXu1)] (https: // github .com / JonathanXu1) 
+  [! [Insignia de Github] (https://img.shields.io/badge/-@JonathanGin52-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/JonathanGin52)] (https: // github .com / JonathanGin52) 
+  [! [Insignia de Github] (https://img.shields.io/badge/-@MaanavD-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/MaanavD)] (https: // github .com / MaanavD) 
+  [! [Insignia de Github] (https://img.shields.io/badge/-@will--r--wang-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/will-r -wang)] (https://github.com/will-r-wang) 
+  [! [Insignia de Github] (https://img.shields.io/badge/-@JessicaLim8-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/JessicaLim8)] (https: // github .com / JessicaLim8) 
+
+  ** ⭐️ De [JessicaLim8] (https://github.com/JessicaLim8) **
+</div>
