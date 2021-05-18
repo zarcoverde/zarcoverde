@@ -7,7 +7,7 @@
 </p>
 <hr>
 <h3 align="center">Acerca de mí</h3>
-<p align="center" style="text-justify">Soy graduado de ingenieria de sistemas en el año 2015 de la universidad <a href="https://www.itm.edu.co/">ITM<a>.</p>
+<p style="text-justify">Soy graduado de ingenieria de sistemas en el año 2015 de la universidad <a href="https://www.itm.edu.co/">ITM<a> en Medellin - Colombia. Actualmente me desempeño como desarrollador full-stack. Soy un apasionado del desarrollo web, amo escuchar música💓 🎶, ver películas, series y compartiéndolo con mis amigos</p>
 
 
 
