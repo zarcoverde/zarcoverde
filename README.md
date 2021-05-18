@@ -30,7 +30,7 @@ Soy ingeniero de sistemas en <a href="https://www.divergente.net.co/"> Divergent
 
 <hr>
 
-### Preferencia de tecnología y herramientas
+### Estas son algunas de las tecnologías que utilizo en el trabajo:
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3 -1572B6? Style = flat & logo = css3 & logoColor = white ">
 <img src = "https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
