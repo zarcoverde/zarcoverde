@@ -47,11 +47,15 @@
   </a>
 </div>
 <hr>
- <h3 align='center'>Estadísticas de github de zarcoverde <a href="https://github-readme-stats.vercel.app/api?username=zarcoverde&show_icons=true&line_height=30"> Divergente Soluciones Informaticas S.A.S </a></h3>
+ <h3 align='center'>Estadísticas de github de zarcoverde 
+ <div align="center"> 
+ <a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zarcoverde&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40"/></a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarcoverde=react&line_height=40&hide=css"/>
+    </a>
+</div
 </body>
 </html>
-
-![Estadísticas de github de zarcoverde](https://github-readme-stats.vercel.app/api?username=zarcoverde&show_icons=true&line_height=30)
 
 ### De: [zarcoverde](https://github.com/zarcoverde)
 
