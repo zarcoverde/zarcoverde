@@ -48,6 +48,7 @@
 </div>
 </body>
 </html>
+<hr>
 
-## ⭐️ De [SatYu26] (https://github.com/SatYu26)
+## ⭐️ De [zarcoverde] (https://github.com/zarcoverde)
 
