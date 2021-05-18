@@ -47,10 +47,8 @@
   </a>
 </div>
 <hr>
+ <h3 align='center'>Estadísticas de github de zarcoverde <a href="https://github-readme-stats.vercel.app/api?username=zarcoverde&show_icons=true&line_height=30"> Divergente Soluciones Informaticas S.A.S </a></h3>
 </body>
 </html>
-
-! [Estadísticas de github de EngincanV] (https://github-readme-stats.vercel.app/api?username=zarcoverde&show_icons=true&line_height=30)
-
 ### De: [zarcoverde](https://github.com/zarcoverde)
 
