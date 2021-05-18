@@ -1,7 +1,4 @@
-<p align="center">
- <img width="200px" src="https://github.com/zarcoverde/zarcoverde/issues/1#issue-894565484" align="center" alt="Github Readme Stats" /> 
- <h2 align="center">Perfil</h2>
+<p align="center" width="300">
+   <img align="center" width="200" src="https://user-images.githubusercontent.com/1561955/106762302-fda9de00-6635-11eb-99be-3ef744e60c0e.png" />
+   <h3 align="center">¡Hey 👋! Soy midudev 👨🏻‍💻</h3>
 </p>
-
-### Hi there 👋 I'm [Anand K. Mainali](https://anandmainali.com.np)
-> Software Engineer at [SoftNEP](https://softnep.com)
