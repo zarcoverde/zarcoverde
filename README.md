@@ -10,16 +10,16 @@
 <p style="text-justify">Soy graduado de ingenieria de sistemas en el año 2015 de la universidad <a href="https://www.itm.edu.co/">ITM<a> en Medellin - Colombia. Actualmente me desempeño como desarrollador full-stack. Soy un apasionado del desarrollo web, amo escuchar música, ver películas, series y jugar video juegos.</p>
 <hr>
 <h3 align="center">Estas son algunas de las tecnologías que utilizo en el trabajo:</h3>
-<img alt="Insignia" style="flotador: izquierda; margen derecho: 5px;" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-<img alt="Insignia" style="flotador: izquierda; margen derecho: 5px;" src="https://img.shields.io/badge/-CSS3-1572B6?Style=flat&logo=css3&logoColor=white">
-<img alt="Insignia" style="flotador: izquierda; margen derecho: 5px;" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img alt="Insignia" style="flotador: izquierda; margen derecho: 5px;" src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani">
-<img alt="Insignia" style="flotador: izquierda; margen derecho: 5px;" src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img alt="Insignia" style="flotador: izquierda; margen derecho: 5px;" src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img alt="Insignia" style="flotador: izquierda; margen derecho: 5px;" src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img alt="Insignia" style="flotador: izquierda; margen derecho: 5px;" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img alt="Insignia" style="flotador: izquierda; margen derecho: 5px;" src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
-<img alt="Insignia" style="flotador: izquierda; margen derecho: 5px;" src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
+<img alt="Insignia" style="float: left; right margin: 5px;" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+<img alt="Insignia" style="float: left; right margin: 5px;" src="https://img.shields.io/badge/-CSS3-1572B6?Style=flat&logo=css3&logoColor=white">
+<img alt="Insignia" style="float: left; right margin: 5px;" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img alt="Insignia" style="float: left; right margin: 5px;" src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani">
+<img alt="Insignia" style="float: left; right margin: 5px;" src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<img alt="Insignia" style="float: left; right margin: 5px;" src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img alt="Insignia" style="float: left; right margin: 5px;" src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img alt="Insignia" style="float: left; right margin: 5px;" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img alt="Insignia" style="float: left; right margin: 5px;" src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+<img alt="Insignia" style="float: left; right margin: 5px;" src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
 
 ### Otros idiomas que conozco
