@@ -10,9 +10,6 @@
 <p style="text-justify">Soy graduado de ingenieria de sistemas en el año 2015 de la universidad <a href="https://www.itm.edu.co/">ITM<a> en Medellin - Colombia. Actualmente me desempeño como desarrollador full-stack. Soy un apasionado del desarrollo web, amo escuchar música, ver películas, series y jugar video juegos.</p>
 <hr>
 <h3 align="center">Estas son algunas de las tecnologías que utilizo en el trabajo:</h3>
-
-### 👨‍💻 Languages and Tools
-
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://github.com/BRdhanani)
