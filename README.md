@@ -48,7 +48,7 @@
 </div>
 <hr>
 <h3 align='center'>Estadísticas de github</h3> 
-<div align="center"><a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=zarcoverde&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></a>    
+<div align="center"><a href="https://github.com/zarcoverde/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zarcoverde&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></a>    
 </div
 </body>
 </html>
