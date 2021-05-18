@@ -96,17 +96,17 @@ Mis estadísticas de GitHub (solo contribuciones públicas 😑) -
   
   # Conéctese conmigo <img src = "https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height = "32px">
 
-  <a href="https://www.linkedin.com/in/satyam-goyal26/">
-    <img align="center" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg"/>
+  <a href="https://in.linkedin.com/in/TheDudeThatCode">
+    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>
   </a>
-  <a href="https://twitter.com/SatYug26">
-    <img align="center" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg"/>
+  <a href="https://twitter.com/TheDudeThatCode">
+    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg"/>
   </a>
-  <a href="https://www.instagram.com/satyu.26/">
-    <img align="center" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg"/>
+  <a href="https://www.instagram.com/thedudethatcode/">
+    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"/>
   </a>
-  <a href="mailto:goyalsatyam8@gmail.com">
-    <img align="center" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"/>
+  <a href="mailto:shubhamdeepjha@gmail.com">
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"/>
   </a>
 
 
