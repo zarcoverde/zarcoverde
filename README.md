@@ -31,7 +31,7 @@
   
 </div> 
 <hr>
-<h3 align="center">Puedes contactarme en:<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="30px"></h3>
+<h3 align="center">Contacta conmigo<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="30px"></h3>
 <div align="center">
  <a href="mailto:john.urrego@divergente.net.co">
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" width="20px" align="center" alt="Zarcoverde | Gmail"/>
