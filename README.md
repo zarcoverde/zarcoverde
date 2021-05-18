@@ -11,7 +11,8 @@
 <hr>
  <h3 align="center">Estas son algunas de las tecnologías que utilizo en el trabajo:</h3>
  
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3 -1572B6? Style = flat & logo = css3 & logoColor = white ">
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+<img src = "https://img.shields.io/badge/-CSS3-1572B6?Style=flat&logo=css3&logoColor=white">
 <img src = "https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src = "https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src = "https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
