@@ -96,6 +96,7 @@ Mis estadísticas de GitHub (solo contribuciones públicas 😑) -
   
   # Conéctese conmigo <img src = "https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height = "32px">
 
+<p align="center">
   <a href="https://in.linkedin.com/in/TheDudeThatCode">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>
   </a>
@@ -108,9 +109,10 @@ Mis estadísticas de GitHub (solo contribuciones públicas 😑) -
   <a href="mailto:shubhamdeepjha@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"/>
   </a>
+  </p>
 
 
-
+<br>
 
 
 ## ⭐️ De [SatYu26] (https://github.com/SatYu26)
