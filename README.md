@@ -21,7 +21,7 @@
 [![PHP](https://img.shields.io/badge/-PHP-1572B6?style=flat&logo=PHP&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)](https://github.com/BRdhanani)
-[![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/BRdhanani)
+[![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter&logoColor=white)](https://github.com/BRdhanani)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
