@@ -34,16 +34,16 @@
 <h3 align="center">Puedes contactarme en:<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="30px"></h3>
 <div align="center">
  <a href="mailto:john.urrego@divergente.net.co">
-    <img align="center" alt="Zarcoverde | Gmail" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"/>
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" width="20px" align="center" alt="Zarcoverde | Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/john-fredy-urrego-urrego-125805149/">
-    <img align="center" alt="Zarcoverde | Linkedin" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" width="20px" align="center" alt="Zarcoverde | Gmail"/>
   </a>
   <a href="https://twitter.com/zarcoverde">
-    <img align="centar" alt="Zarcoverde | Twitter" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg"/>
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" width="20px" align="center" alt="Zarcoverde | Gmail"/>
   </a>
   <a href="https://www.instagram.com/zarcoverde/">
-    <img align="center" alt="Zarcoverde | Instagram" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"/>
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" width="20px" align="center" alt="Zarcoverde | Gmail"/>
   </a>
 </div>
 <hr>
