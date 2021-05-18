@@ -5,10 +5,10 @@
  <h3 align='center'>¡Hola! soy Zarcoverde</h3>
  <h3 align='center'>Soy ingeniero de sistemas en <a href="https://www.divergente.net.co/"> Divergente Soluciones Informaticas S.A.S </a></h3>
 </p>
-<hr>
+<br/>
 <h3 align="center">Acerca de mí.</h3>
 <p style="text-justify">Soy graduado de ingenieria de sistemas en el año 2015 de la universidad <a href="https://www.itm.edu.co/">ITM</a> en Medellin - Colombia. Actualmente me desempeño como desarrollador full-stack. Soy un apasionado del desarrollo web, amo escuchar música, ver películas, series y jugar video juegos.</p>
-<hr>
+<br/>
 <h3 align="center">Estas son algunas de las tecnologías que utilizo en el trabajo:</h3> 
 <div align="center">
   
@@ -30,11 +30,11 @@
 ###
   
 </div>
-<hr>
+<br/>
 <h3 align='center'>Estadísticas de github de <a href="https://github.com/zarcoverde">zarcoverde</a></h3> 
 <div align="center"><a href="https://github.com/zarcoverde/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zarcoverde&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></a>    
 </div
-<hr>
+<br/>
 <h3 align="center">Contacta conmigo<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="30px"></h3>
 <div align="center">
  <a href="mailto:john.urrego@divergente.net.co">
