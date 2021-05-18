@@ -11,14 +11,6 @@
 <hr>
 <h3 align="center">Estas son algunas de las tecnologías que utilizo en el trabajo:</h3>
 
-
-
-### Otros idiomas que conozco
-<img src = "http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src = "https://img.shields.io/badge/-C % 20 &% 20C ++ - 659ad2? Style = flat & logo = c% 2B% 2B & logoColor = ffffff "> <img src =" https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white " > 
-
-
-
-
 ### 👨‍💻 Languages and Tools
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
