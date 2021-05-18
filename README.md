@@ -33,22 +33,22 @@
 <hr>
 <h3 align="center">Puedes contactarme en:<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="30px"></h3>
 <div align="center">
- <a href="mailto:shubhamdeepjha@gmail.com">
-    <img align="center" alt="Shubhamdeep Jha | Gmail" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"/>
+ <a href="mailto:john.urrego@divergente.net.co">
+    <img align="center" alt="Zarcoverde | Gmail" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"/>
   </a>
-  <a href="https://in.linkedin.com/in/TheDudeThatCode">
-    <img align="center" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>
+  <a href="https://www.linkedin.com/in/john-fredy-urrego-urrego-125805149/">
+    <img align="center" alt="Zarcoverde | Linkedin" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>
   </a>
-  <a href="https://twitter.com/TheDudeThatCode">
-    <img align="centar" alt="Shubhamdeep Jha | Twitter" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg"/>
+  <a href="https://twitter.com/zarcoverde">
+    <img align="centar" alt="Zarcoverde | Twitter" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg"/>
   </a>
-  <a href="https://www.instagram.com/thedudethatcode/">
-    <img align="center" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"/>
-  </a>  
+  <a href="https://www.instagram.com/zarcoverde/">
+    <img align="center" alt="Zarcoverde | Instagram" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"/>
+  </a>
 </div>
 <hr>
 </body>
 </html>
 
-### ⭐️ De [zarcoverde](https://github.com/zarcoverde)
+### De: [zarcoverde](https://github.com/zarcoverde)
 
