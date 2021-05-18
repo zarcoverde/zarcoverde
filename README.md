@@ -10,8 +10,7 @@
 <p style="text-justify">Soy graduado de ingenieria de sistemas en el año 2015 de la universidad <a href="https://www.itm.edu.co/">ITM<a> en Medellin - Colombia. Actualmente me desempeño como desarrollador full-stack. Soy un apasionado del desarrollo web, amo escuchar música, ver películas, series y jugar video juegos.</p>
 <hr>
 <h3 align="center">Estas son algunas de las tecnologías que utilizo en el trabajo:</h3> 
-
- <div align="center">
+<div align="center">
   
 ### 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
@@ -19,7 +18,10 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://github.com/BRdhanani)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+[![PHP](https://img.shields.io/badge/-PHP-1572B6?style=flat&logo=PHP&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)](https://github.com/BRdhanani)
+[![Fltter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/BRdhanani)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
@@ -28,19 +30,7 @@
 [![VSCode](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)](https://github.com/BRdhanani)
 ###
   
- </div> 
-
-⭐️ From [@BRdhanani](https://github.com/BRdhanani)
-
-Mis estadísticas de GitHub (solo contribuciones públicas 😑) -
-
-
-
-## Idiomas y herramientas:
-
-<img alt="Insignia" style="flotador: izquierda; margen derecho: 5px;" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/> <img alt="Insignia" style="flotador: izquierda; margen derecho: 5px; " src = "https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
-<img alt="Insignia" style="float: left; margin-right: 5px;" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-
+</div> 
 <br>
   
   # Conéctese conmigo <img src = "https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height = "32px">
