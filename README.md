@@ -83,14 +83,42 @@ Soy ingeniero de sistemas en <a href="https://www.divergente.net.co/"> Divergent
 
 ⭐️ From [@BRdhanani](https://github.com/BRdhanani)
 
-
-
-<img src = "https://github-readme-stats.vercel.app/api?username=Neel2904&&show_icons=true&theme=radical&line_height=27&v=5" alt = "Estadísticas de GitHub de Ashwani" />
-
-## Vamos a conectar: ​​speech_balloon:
-[! [Insignia de Twitter] (https://img.shields.io/badge/-@Neel_3056-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ashwanisng)] (https : //twitter.com/Neel_3056) [! [Insignia de Linkedin] (https://img.shields.io/badge/-Neel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin .com / in / gorasiyaneel /)] (https://www.linkedin.com/in/gorasiyaneel/) [! [Insignia de Gmail] (https://img.shields.io/badge/-mgorasiya1974@gmail.com -c14438? style = flat-square & logo = Gmail & logoColor = white & link = mailto: ashwanicena5@gmail.com)] (mailto: mgorasiya1974@gmail.com) [! [Insignia de Instagram] (https://img.shields.io/badge/ - @ Neel-e4405f? Style = flat-square & labelColor = f94877 & logo = instagram & logoColor = white & link = https: //www.instagram.com/Neel/)] (https://www.instagram.com/neelg._.3056/)
+Mis estadísticas de GitHub (solo contribuciones públicas 😑) -
 
 
 
+## Idiomas y herramientas:
 
-⭐️ De [Neel] (https://github.com/Neel2904)
+<img alt = "Insignia" style = "float: left; margin-right: 10px;" src = "https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img alt = "Insignia" style = "flotador: izquierda; margen derecho: 10px; " src = "https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" /> <img alt = "Insignia" style = "flotador: izquierda; margen derecho: 10px; " src = "https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" /> <img alt = "Badge" style = "float: left; margen derecho: 10px; " src = "https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5& logoColor = white "/> <img alt =" Insignia "style =" float: left; margin-right: 10px; "src =" https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white "/> <img alt =" Insignia "style =" float: left; margin-right: 10px; "src =" https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB "/> <img alt = "Insignia" style = "float: left; margin-right: 10px; "src =" https://img.shields.io/badge/Jupyter_Notebook%20-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white "/> <img alt =" Insignia "style =" float: left; margen derecho: 10px; "src =" https://img.shields.io/badge/javascript%20-%23323330.svg?& style = for-the-badge & logo = javascript & logoColor =% 23F7DF1E "/> <img alt =" Badge "style =" float: left; margin-right: 10px; "src =" https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white "/> < img alt = "Insignia" style = "flotador: izquierda; margin-right: 10px; "src =" https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white "/> <img alt =" Insignia "style =" float: left; margin-right: 10px; "src =" https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white "/> <img alt =" Insignia " style = "float: left; margin-right: 10px; "src =" https: //img.shields. io / badge / MongoDB-% 234ea94b.svg? & style = for-the-badge & logo = mongodb & logoColor = white "/> <img alt =" Badge "style =" float: left; margin-right: 10px; "src =" https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white "/> <img alt =" Insignia "style =" float: left; margin-right: 10px; "src =" https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white "/> <img alt =" Insignia "style =" float: left; margin-right: 10px; "src =" https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white "/> <img alt = "Insignia" estilo = "flotador: izquierda; margen derecho: 10px; "src ="
+
+<br>
+  
+  # Conéctese conmigo <img src = "https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height = "32px">
+
+  <a href="https://www.linkedin.com/in/satyam-goyal26/">
+    <img align = "left" alt = "Satyam Goyal | Linkedin" width = "24px" src = "https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> & nbsp; & nbsp;
+  <a href="https://twitter.com/SatYug26">
+    <img align = "left" alt = "Satyam Goyal | Twitter" width = "26px" src = "https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+  </a> & nbsp; & nbsp;
+  <a href="https://www.instagram.com/satyu.26/">
+    <img align = "left" alt = "Satyam Goyal | Instagram" width = "24px" src = "https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> & nbsp; & nbsp;
+  <a href="mailto:goyalsatyam8@gmail.com">
+    <img align = "left" alt = "Satyam Goyal | Gmail" width = "26px" src = "https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
+
+
+<br> <br>
+
+! [visitantes] (https://visitor-badge.laobi.icu/badge?page_id=SatYu26)
+<! -! [visitantes] (https://badges.pufler.dev/visits/SatYu26/SatYu26)
+! [Recuento de visitantes] (https://profile-counter.glitch.me/SatYu26/count.svg) ->
+
+
+<! - Reconocimiento: https://github.com/anuraghazra/github-readme-stats ->
+
+
+
+## ⭐️ De [SatYu26] (https://github.com/SatYu26)
+
