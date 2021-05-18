@@ -1,3 +1,5 @@
+<html>
+<body>
 <p align="center">
  <img width="200px" src="https://user-images.githubusercontent.com/31412501/118694241-7db51780-b7d1-11eb-9368-e97f2fed3ad9.png" align="center" alt="Github Readme Stats"/>
  <h3 align='center'>¡Hola! soy Zarcoverde</h3>
@@ -113,6 +115,8 @@ Mis estadísticas de GitHub (solo contribuciones públicas 😑) -
 
 
 <br>
+</body>
+</html>
 
 
 ## ⭐️ De [SatYu26] (https://github.com/SatYu26)
