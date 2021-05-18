@@ -1,18 +1,14 @@
 <p align="center">
  <img width="200px" src="https://user-images.githubusercontent.com/31412501/118694241-7db51780-b7d1-11eb-9368-e97f2fed3ad9.png" align="center" alt="Github Readme Stats"/>
  <h3 align='center'>¡Hola! soy Zarcoverde</h3>
+ <h3 align='center'>Soy ingeniero de sistemas en <a href="https://www.divergente.net.co/"> Divergente Soluciones Informaticas S.A.S </a></h3>
 </p>
 <hr>
+<h3 align="center">Acerca de mí</h3>
+<p align="center" style="text-justify">Soy graduado de ingenieria de sistemas en el año 2015 de la universidad <a href="https://www.itm.edu.co/">ITM<a>.</p>
 
-Soy ingeniero de sistemas en <a href="https://www.divergente.net.co/"> Divergente Soluciones Informaticas S.A.S </a>
 
 
-
-<h3>👨 �Acerca de mí</h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-
-<hr>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
