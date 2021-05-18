@@ -47,23 +47,12 @@
   </a>
 </div>
 <hr>
- <h3 align='center'>Estadísticas de github de zarcoverde 
-<div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zarcoverde&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>   
+<h3 align='center'>Estadísticas de github de zarcoverde </h3> 
+<div align="center"><a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zarcoverde&show_icons=true&include_all_commits
+ =true&count_private=true&theme=react&line_height=40"/></a>   
 </div
 </body>
 </html>
-  
-  ![Satyam's github stats](https://github-readme-stats.vercel.app/api?username=zarcoverde&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarcoverde&langs_count=8)](https://github.com/zarcoverde/github-readme-stats)
-
-
-
 <br>
 
 ### De: [zarcoverde](https://github.com/zarcoverde)
