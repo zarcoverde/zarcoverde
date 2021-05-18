@@ -60,7 +60,8 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarcoverde&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zarcoverde)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <br>
