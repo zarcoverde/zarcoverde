@@ -29,7 +29,11 @@
 [![VSCode](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&&link=https://github.com/zarcoverde)](https://github.com/zarcoverde)
 ###
   
-</div> 
+</div>
+<hr>
+<h3 align='center'>Estadísticas de github de <a href="https://github.com/zarcoverde">zarcoverde</a></h3> 
+<div align="center"><a href="https://github.com/zarcoverde/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zarcoverde&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></a>    
+</div
 <hr>
 <h3 align="center">Contacta conmigo<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="30px"></h3>
 <div align="center">
@@ -46,9 +50,5 @@
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" width="20px" align="center" alt="Zarcoverde | Gmail"/>
   </a>
 </div>
-<hr>
-<h3 align='center'>Estadísticas de github de <a href="https://github.com/zarcoverde">zarcoverde</a></h3> 
-<div align="center"><a href="https://github.com/zarcoverde/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zarcoverde&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></a>    
-</div
 </body>
 </html>
