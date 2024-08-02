@@ -1,7 +1,7 @@
 <html>
 <body>
 <p align="center">
- <img width="200px" src="" align="center" alt="Github Readme Stats"/>
+ 
  <h3 align='center'>¡Hola! soy Zarcoverde</h3>
  <h3 align='center'>Soy ingeniero de sistemas</h3>
 </p>
