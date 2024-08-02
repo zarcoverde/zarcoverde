@@ -1,9 +1,9 @@
 <html>
 <body>
 <p align="center">
- <img width="200px" src="https://user-images.githubusercontent.com/31412501/118694241-7db51780-b7d1-11eb-9368-e97f2fed3ad9.png" align="center" alt="Github Readme Stats"/>
+ <img width="200px" src="" align="center" alt="Github Readme Stats"/>
  <h3 align='center'>¡Hola! soy Zarcoverde</h3>
- <h3 align='center'>Soy ingeniero de sistemas en <a href="https://www.divergente.net.co/"> Divergente Soluciones Inteligentes S.A.S </a></h3>
+ <h3 align='center'>Soy ingeniero de sistemas</h3>
 </p>
 <br/>
 <h3 align="center">Acerca de mí.</h3>
@@ -37,7 +37,7 @@
 <br/>
 <h3 align="center">Contacta conmigo<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="30px"></h3>
 <div align="center">
- <a href="mailto:john.urrego@divergente.net.co">
+ <a href="mailto:johnfredyurrego8597@gmail.com">
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" width="20px" align="center" alt="Zarcoverde | Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/john-fredy-urrego-urrego-125805149/">
