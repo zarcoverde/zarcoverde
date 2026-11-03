@@ -16,8 +16,22 @@ Ingeniero de sistemas (ITM, 2015). Construyo software a la medida y productos pr
 - 💼 **Disponible para proyectos freelance** — aplicaciones web, integraciones, automatización y apps móviles.
   <br><sub>Open to freelance work: web apps, integrations, automation and mobile apps.</sub>
 
+### 📂 Proyectos destacados · Featured projects
+
+<sub>🔒 Repositorios privados · Private repositories — código disponible bajo solicitud / code available on request.</sub>
+
+| Proyecto | Descripción | Description |
+|---|---|---|
+| **Forzix** | SaaS para gimnasios y academias de entrenamiento | SaaS for gyms and training academies |
+| **NED** | Micro framework MVC propio: ORM, PDO, migraciones; hace más ligero el desarrollo de aplicaciones complejas | My own lightweight MVC micro-framework: ORM, PDO, migrations |
+| **Flujo de Caja** | Aplicación de flujo de caja | Cash-flow management app |
+| **Estilo Lash** | Sitio web de productos e insumos de belleza para Estilo Lash (Canadá) | Beauty products website for Estilo Lash (Canada) |
+| **Fountain North Dallas** | Proyecto para la fundación North Dallas | Project for the North Dallas foundation |
+
 ### 🧭 Trayectoria · Background
 
+- **NED** — Creador de NED, un micro framework MVC in-house con el que construyo mis aplicaciones.
+  <br><sub>Creator of NED, an in-house MVC micro-framework I use to build my applications.</sub>
 - **Codepyme** — Hice parte del equipo fundador. Lideré el desarrollo de productos como **Navi**, **Flujo de Caja**, **DianBox** y **Club Deportivo**, además de proyectos a la medida para clientes, principalmente del sector salud.
   <br><sub>Founding team member. Led products such as Navi, Flujo de Caja (cash flow), DianBox and Club Deportivo, plus custom projects for clients, mainly in the healthcare sector.</sub>
 
