@@ -9,8 +9,8 @@ Ingeniero de sistemas (ITM, 2015). Construyo software a la medida y productos pr
 
 ### 🚀 Ahora mismo · Right now
 
-- 🏋️ **Forzix** — Software todo en uno para gimnasios y academias de entrenamiento: membresías, CRM, rutinas, seguimiento y clases. → [forzix.app](https://forzix.app) · [@forzix.app](https://www.instagram.com/forzix.app/)
-  <br><sub>All-in-one software for gyms and training academies: memberships, CRM, workouts, progress tracking and classes.</sub>
+- 🏋️ **Forzix** — Software todo en uno para cualquier centro deportivo: box, sala de pesas, artes marciales, spinning, yoga, natación y entrenamiento personal. Cobros, clases, acceso con QR, app para los socios, entrenamiento y comunidad. → [forzix.app](https://forzix.app) · [@forzix.app](https://www.instagram.com/forzix.app/)
+  <br><sub>All-in-one software for any sports center: gyms, boxes, martial arts, cycling, yoga, swimming and personal training. Billing, classes, QR check-in, member app, training and community.</sub>
 - 📲 **[Conexión Más](https://github.com/conexionmassas)** — Distribución de plataformas de recargas y pagos en Colombia (PTM, Bemovil, Winred, Refacil) y venta de productos en marketplaces como Mercado Libre.
   <br><sub>Distributor of mobile top-up and payment platforms in Colombia, plus e-commerce on marketplaces such as Mercado Libre.</sub>
 - 💼 **Disponible para proyectos freelance** — aplicaciones web, integraciones, automatización y apps móviles.
@@ -22,7 +22,7 @@ Ingeniero de sistemas (ITM, 2015). Construyo software a la medida y productos pr
 
 | Proyecto | Descripción | Description |
 |---|---|---|
-| **Forzix** | SaaS para gimnasios y academias de entrenamiento | SaaS for gyms and training academies |
+| **Forzix** | SaaS para cualquier centro deportivo | SaaS for any sports center |
 | **NED** | Micro framework MVC propio: ORM, PDO, migraciones; hace más ligero el desarrollo de aplicaciones complejas | My own lightweight MVC micro-framework: ORM, PDO, migrations |
 | **Flujo de Caja** | Aplicación de flujo de caja | Cash-flow management app |
 | **Estilo Lash** | Sitio web de productos e insumos de belleza para Estilo Lash (Canadá) | Beauty products website for Estilo Lash (Canada) |
