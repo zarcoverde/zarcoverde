@@ -9,7 +9,7 @@ Ingeniero de sistemas (ITM, 2015). Construyo software a la medida y productos pr
 
 ### 🚀 Ahora mismo · Right now
 
-- 🏋️ **Forzix** — Software todo en uno para gimnasios y academias de entrenamiento: membresías, CRM, rutinas, seguimiento y clases. *(Próximamente en forzix.app · [@forzix.app](https://www.instagram.com/forzix.app/))*
+- 🏋️ **Forzix** — Software todo en uno para gimnasios y academias de entrenamiento: membresías, CRM, rutinas, seguimiento y clases. → [forzix.app](https://forzix.app) · [@forzix.app](https://www.instagram.com/forzix.app/)
   <br><sub>All-in-one software for gyms and training academies: memberships, CRM, workouts, progress tracking and classes.</sub>
 - 📲 **[Conexión Más](https://github.com/conexionmassas)** — Distribución de plataformas de recargas y pagos en Colombia (PTM, Bemovil, Winred, Refacil) y venta de productos en marketplaces como Mercado Libre.
   <br><sub>Distributor of mobile top-up and payment platforms in Colombia, plus e-commerce on marketplaces such as Mercado Libre.</sub>
@@ -60,7 +60,8 @@ Ingeniero de sistemas (ITM, 2015). Construyo software a la medida y productos pr
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:johnfredyurrego8597@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-fredy-urrego-urrego-125805149/)
-[![Forzix](https://img.shields.io/badge/@forzix.app-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/forzix.app/)
+[![Forzix](https://img.shields.io/badge/forzix.app-0B7A75?style=flat&logo=googlechrome&logoColor=white)](https://forzix.app)
+[![Instagram](https://img.shields.io/badge/@forzix.app-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/forzix.app/)
 
 ---
 
